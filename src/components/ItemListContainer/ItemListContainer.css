@@ -1,0 +1,16 @@
+
+
+.Containerflex1 {
+  background-color: #555555;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 2px;
+  flex-wrap: row wrap;
+  text-align: center;
+  
+
+}
+
+
+

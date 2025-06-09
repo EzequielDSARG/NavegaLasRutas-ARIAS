@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+p {
+  margin: 0;
+}
+
+.container{
+  display: flex-box;
+  margin: 0 auto;
+  text-align: center;
+  background: rgb(189, 224, 238);
+}
+
+
+.Containerflex1 {
+  color: #555555;
+
+}
